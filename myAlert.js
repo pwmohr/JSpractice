@@ -1,3 +1,4 @@
+// Super important comment
 class Rectangle {
     constructor(h, w) {
         this.height = h;
